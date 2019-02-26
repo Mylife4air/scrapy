@@ -1,0 +1,1 @@
+FIRST_URL = 'https://list.jd.com/list.html?cat=9987,653,655'
